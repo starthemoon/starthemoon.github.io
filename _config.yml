@@ -34,7 +34,7 @@ sass:
 disqus_shortname:   default
 
 # Social
-github:             https://starthemoon.github.com
+github:             starthemoon
 
 # personal
 location:           Guangzhou, Guangdong
@@ -53,7 +53,7 @@ paginate: 6
 paginate_path: "/blog/page:num/"
 
 jekyll-mentions:
-    base_url: https://github.com
+    base_url: https://github.com/
 
 # Exclude list
 exclude: [README.md, Gemfile, Gemfile.lock, node_modules, gulpfile.js, package.json, _site, src, vendor, CNAME, LICENSE, Rakefile, old]
