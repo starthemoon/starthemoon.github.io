@@ -34,11 +34,7 @@ sass:
 disqus_shortname:   default
 
 # Social
-analytics-id:       "default"
-twitter:            default
-facebook:           default
-instagram:          default
-github:             default
+github:             https://starthemoon.github.com
 
 # personal
 location:           Guangzhou, Guangdong
