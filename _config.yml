@@ -1,19 +1,19 @@
 future: true
 permalink: /:title/
-url: http://pmlpml.github.io
-name: Pan Sir
-author: Sir Pan
-qq: yourqq
-email: yourmail@mail2.sysu.edu.cn
+url: https://starthemoon.github.io/categories/
+name: starthemoon
+author: starthemoon
+qq: 812138420
+email: 15331309@mail2.sysu.edu.cn
 
-duoshuo: yourname
+duoshuo: 魏兆
 beian: 
 cnzz: 
 weibo: 
-github: yourID
-about: "这里是 Your 的个人博客，创建于 20xx 年。"
+github: starthemoon
+about: "这里是starthemoon的个人博客，创建于 2018 年。"
 
-safe: true
+safe: false
 paginate: 20
 
 theme: jekyll-theme-hacker
