@@ -31,10 +31,14 @@ sass:
   style:            compressed
 
 # Comments
-disqus_shortname:   you
+disqus_shortname:   default
 
 # Social
-github:             starthemoon.github.com
+analytics-id:       "default"
+twitter:            default
+facebook:           default
+instagram:          default
+github:             default
 
 # personal
 location:           Guangzhou, Guangdong
