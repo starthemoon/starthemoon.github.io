@@ -1,6 +1,8 @@
 # Welcome To My Blog
 
-​	
+This is a brief introduction to my blog.
+
+
 
 ##Introduction
 
