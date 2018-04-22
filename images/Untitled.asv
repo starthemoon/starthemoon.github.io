@@ -1,5 +1,0 @@
-filename = strcat('lesson6_1_a.png');
-tmp = imread(filename);
-tmp = imresize(tmp, [960, cols]);
-filename = strcat('l', filename);
-imwrite(tmp, filename);
