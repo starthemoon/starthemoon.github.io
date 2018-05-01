@@ -16,7 +16,7 @@ defaults:
     author:
 
 # Jekyll
-permalink:          /blog/:title/
+permalink:          /:title/
 markdown:           kramdown
 highlighter:        rouge
 kramdown:
